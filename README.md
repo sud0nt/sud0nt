@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @sud0nt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 sud0nt/sud0nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,3 +6,5 @@ You can click the Preview link to take a look at your changes.
 # Hi, i'm sud0nt
 
 ## I'm interested in sysadmin/pentesting stuff and things.
+
+I've got a 3 Node Proxmox Cluster running everything from Ansible, Kali, LAMP Server, 3 node K8s Cluster. It's got it all. But I'm going to be putting most of the automation stuff I do with it up here on Github in a repository, so feel free to browse and grab and use whatever you'd like.
